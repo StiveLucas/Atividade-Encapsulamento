@@ -137,6 +137,8 @@ public class Main {
                     System.out.println("Progama sendo finalizado...");
                   
                 default:
+                    System.out.println("Código inválido.");
+                    
                     break;
             }
             
